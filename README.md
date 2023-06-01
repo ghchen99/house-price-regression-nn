@@ -1,4 +1,4 @@
-# Regression Neural Network
+# California House Price Regression
 
 This project aims to implement a neural network architecture for regression using the California House Prices Dataset. The goal is to predict the median house value of a block group based on various attributes.
 
